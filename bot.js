@@ -34,7 +34,7 @@ client.on("messageCreate", async (message) => {
     const args = message.content.slice(1).trim().split(" ");
     const command = args.shift().toLowerCase();
   
-    if (command === "play", "p") {
+    if (command === "play") {
         const query = args.join(" ");
         const player = client.riffy.createConnection({
             guildId: message.guild.id,
