@@ -175,7 +175,7 @@ client.on("messageCreate", async (message) => {
             .setDescription(chunk);  
             message.channel.send({ embeds: [embed] });
         });
-    } else if (command === "skip","s") {
+    } else if (command === "skip") {
         const player = client.riffy.players.get(message.guild.id); 
         if (!player) return message.channel.send("No player available.");
     
