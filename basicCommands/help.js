@@ -57,7 +57,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
+      .setImage(`https://cdn.discordapp.com/attachments/913407674597642250/1242594273111576698/ezgif-6-3a08fef5ca.gif?ex=66794058&is=6677eed8&hm=2b5678af9ac10181460af9f47f11dd4b2c13b0727cc83f53f417c039db89da5e&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('Facebook')
