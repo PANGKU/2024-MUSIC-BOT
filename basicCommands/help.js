@@ -71,7 +71,7 @@ module.exports = {
 
     const button3 = new ButtonBuilder()
       .setLabel('Instagram')
-      .setURL('https://github.com/GlaceYT')
+      .setURL('https://www.instagram.com/mr_pangku')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
