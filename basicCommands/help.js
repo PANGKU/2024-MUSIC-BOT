@@ -61,7 +61,7 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('Facebook')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.facebook.com/pangku69/')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
