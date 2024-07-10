@@ -5,7 +5,7 @@ module.exports = {
     description: 'support server of this Bot',
     execute(message, args) {
         const supportServerLink = "https://discord.gg/AKdjNvfngd";
-      const facebookLink = "https://github.com/GlaceYT";
+      const facebookLink = "https://www.facebook.com/pangku69/";
       const instagramLink = "https://www.instagram.com/mr_pangku";
       const twitchLink = "https://www.twitch.tv/ven_pangku";
         const embed = new EmbedBuilder()
